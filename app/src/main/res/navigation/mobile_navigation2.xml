@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.recyclehome.ui.home_Advertiser.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_information"
+        android:name="com.example.recyclehome.ui.Information_Advertiser.InformationAdvertiserFragment"
+        android:label="Setting"
+        tools:layout="@layout/fragment_information_advertiser" />
+
+    <fragment
+        android:id="@+id/nav_orderAdvertiser"
+        android:name="com.example.recyclehome.ui.OrderAdvertiser.OrderAdvertiserFragment"
+        android:label="Add To Basket"
+        tools:layout="@layout/fragment_orderadvertise" />
+    <fragment
+        android:id="@+id/basketFragment"
+        android:name="com.example.recyclehome.ui.Cart.CartFragment"
+        android:label="ORDER"
+        tools:layout="@layout/fragment_basket" />
+</navigation>

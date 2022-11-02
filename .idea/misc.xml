@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/drawable-v24/border.xml" value="0.1505" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1495" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/drawable/side_nav_bar.xml" value="0.1495" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/drawable/styleshap.xml" value="0.1505" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/acceptlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_advertiser_home.xml" value="0.2" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_information_advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_screenlide.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_screenslide.xml" value="0.22" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/app_bar_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/app_bar_advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/content_admin.xml" value="0.2" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/content_advertise.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/content_advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fargment_advertiser_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_accept_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_basket.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_createaccount.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_homeadmin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_information__advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_information_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_information_advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_orderadvertise.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/material_basket.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/nav_header_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/nav_header_advertiser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/recyclable_materials.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/layout/screen_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/menu/activity_main_drawer_recycle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/menu/admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/menu/advertiser.xml" value="0.22" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/omar_/AndroidStudioProjects/RecycleHome/app/src/main/res/menu/recycle.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
